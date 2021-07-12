@@ -1,1 +1,0 @@
-# Linux_Nvidia_Bumblebee_install
